@@ -134,4 +134,4 @@ Please provide a detailed system design covering the following aspects:
 * How would you ensure real-time updates for support chat both in-app and on WhatsApp?
 
 * Consider the implications of GDPR's "right to be forgotten" or POPIA's equivalent on your data model and data retention policies.
-```
+  
