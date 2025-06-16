@@ -1,6 +1,3 @@
-Here's the complete content of the `README.md` file, including the standard Markdown syntax for headings. You can **copy and paste this directly** into your GitHub `README.md` file.
-
-
 # System Design Challenge: Tenant Profiling Software
 
 This repository contains a detailed system design for a **Tenant Profiling Software**. This document outlines the architectural choices, component breakdowns, data models, API designs, and strategies for scalability, security, monitoring, and disaster recovery, all in response to a challenging system design interview prompt.
